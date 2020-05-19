@@ -1,0 +1,7 @@
+C:\Users\calibri\Desktop\Filezilla Method\Client\ClientForFilezilla\obj\Debug\ClientForFilezilla.csprojAssemblyReference.cache
+C:\Users\calibri\Desktop\Filezilla Method\Client\ClientForFilezilla\obj\Debug\ClientForFilezilla.csproj.CoreCompileInputs.cache
+C:\Users\calibri\Desktop\Filezilla Method\Client\ClientForFilezilla\bin\Debug\ClearUDP.exe.config
+C:\Users\calibri\Desktop\Filezilla Method\Client\ClientForFilezilla\bin\Debug\ClearUDP.exe
+C:\Users\calibri\Desktop\Filezilla Method\Client\ClientForFilezilla\bin\Debug\ClearUDP.pdb
+C:\Users\calibri\Desktop\Filezilla Method\Client\ClientForFilezilla\obj\Debug\ClearUDP.exe
+C:\Users\calibri\Desktop\Filezilla Method\Client\ClientForFilezilla\obj\Debug\ClearUDP.pdb

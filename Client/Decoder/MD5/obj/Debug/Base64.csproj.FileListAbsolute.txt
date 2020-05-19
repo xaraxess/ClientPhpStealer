@@ -1,0 +1,6 @@
+C:\Users\calibri\Desktop\Filezilla Method\Client\Decoder\MD5\bin\Debug\Base64.exe.config
+C:\Users\calibri\Desktop\Filezilla Method\Client\Decoder\MD5\bin\Debug\Base64.exe
+C:\Users\calibri\Desktop\Filezilla Method\Client\Decoder\MD5\bin\Debug\Base64.pdb
+C:\Users\calibri\Desktop\Filezilla Method\Client\Decoder\MD5\obj\Debug\Base64.csproj.CoreCompileInputs.cache
+C:\Users\calibri\Desktop\Filezilla Method\Client\Decoder\MD5\obj\Debug\Base64.exe
+C:\Users\calibri\Desktop\Filezilla Method\Client\Decoder\MD5\obj\Debug\Base64.pdb
